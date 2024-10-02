@@ -5,12 +5,15 @@ This repository is a temporary storage location used to facilitate the access fo
 
 This was done so that students can reference this repository in order to vote for their favorite projects as well as select which project they would like to work on next.
 
+## ⚠️**WARNING**⚠️ 🔴IMPORTANT❗🔴: 
+
+If you have submitted a poster and it is **NOT** available here, or you find any **CORRUPTED/INACCESSIBLE** file, please reach out to the tutor staff as soon as possible.
+
 
 ## Table of contents
 
 The following table contains all of the submitted project posters as of 10:01 am EST on October 2nd 2024. Updates will be reflected in this line.
 
-If you have submitted a poster and it is not contained/available here. Please reach out to the tutor staff as soon as possible.
 
 | Group  | Poster 1 | Poster 2 |
 | ---------- | -------- | -------- |
