@@ -1,7 +1,7 @@
 # README
 
 ## CSC 510 Fall 2024 (NCSU)
-This repository is a temporary storage location used to facilitate the access for students of the CSC 510 - Software Engineering course at NCSU in Fall 2024 of all generated and submitted posters for the Project 1. 
+This repository is a temporary storage location used to facilitate the access for students of the [CSC 510 - Software Engineering](https://txt.github.io/se24fall/) course at NCSU in Fall 2024 of all generated and submitted posters for the Project 1. 
 
 This was done so that students can reference this repository in order to vote for their favorite projects as well as select which project they would like to work on next.
 
