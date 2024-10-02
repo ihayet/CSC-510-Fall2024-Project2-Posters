@@ -21,7 +21,7 @@ If you have submitted a poster and it is **NOT** available here, or you find any
 
 ## Table of contents
 
-The following table contains all of the submitted project posters as of 10:01 am EST on October 2nd 2024. Updates will be reflected in this line.
+The following table contains all of the submitted project posters as of **10:01 am EST on October 2nd 2024**. Updates will be reflected in this line.
 
 
 | Group  | Poster 1 | Poster 2 |
