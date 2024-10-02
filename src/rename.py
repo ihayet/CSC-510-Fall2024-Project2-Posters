@@ -1,6 +1,6 @@
 import os
-path = "C:/Users/Andre/Documents/NCSU/SE24FALLTA/posters"
-folders = os.listdir(".")
+path = "---add your basepath to this repository here ----"
+folders = os.listdir("../Posters")
 #remove the .py file from the list
 folders.remove("rename.py")
 

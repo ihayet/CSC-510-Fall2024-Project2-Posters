@@ -1,6 +1,6 @@
 # Function to generate a 3-column markdown table for group directories and their posters
 import os
-base_path = "C:/Users/Andre/Documents/NCSU/SE24FALLTA/posters"
+base_path = "---add your basepath to this repository here ----"
 
 
 def generate_poster_table(folder_structure):
@@ -26,7 +26,7 @@ def generate_poster_table(folder_structure):
     return poster_table
 
 # Generate the poster table
-folders = os.listdir(".")
+folders = os.listdir("../Posters")
 #remove anything that is not a directory
 
 for folder in folders:
