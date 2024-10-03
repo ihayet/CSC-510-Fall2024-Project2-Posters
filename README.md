@@ -59,7 +59,7 @@ The following table contains all of the submitted project posters as of **10:01 
 |  Group 31  |  [Poster1](./Posters/Group31/Group31_Poster1.pdf)  |  [Poster2](./Posters/Group31/Group31_Poster2.pdf)  |
 |  Group 32  |  [Poster1](./Posters/Group32/Group32_Poster1.pdf)  |  [Poster2](./Posters/Group32/Group32_Poster2.pdf)  |
 |  Group 33  |  [Poster1](./Posters/Group33/Group33_Poster1.pdf)  |  [Poster2](./Posters/Group33/Group33_Poster2.pdf)  |
-|  Group 34  |  [Poster1](./Posters/Group34/Group34_Poster1.pdf)  |    |
+|  Group 34  |  [Poster1](./Posters/Group34/Group34_Poster1.pdf)  |  [Poster2](./Posters/Group34/Group34_Poster2.pdf)  |
 |  Group 35  |  [Poster1](./Posters/Group35/Group35_Poster1.pdf)  |  [Poster2](./Posters/Group35/Group35_Poster2.pdf)  |
 |  Group 36  |  [Poster1](./Posters/Group36/Group36_Poster1.pdf)  |  [Poster2](./Posters/Group36/Group36_Poster2.pdf)  |
 |  Group 37  |  [Poster1](./Posters/Group37/Group37_Poster1.pdf)  |  [Poster2](./Posters/Group37/Group37_Poster2.pdf)  |
