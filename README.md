@@ -93,6 +93,7 @@ The following table contains all of the submitted project posters as of **10:01 
 |  Group 65  |  [Poster1](./Posters/Group65/Group65_Poster1.pdf)  |  [Poster2](./Posters/Group65/Group65_Poster2.pdf)  |
 |  Group 66  |  [Poster1](./Posters/Group66/Group66_Poster1.pdf)  |  [Poster2](./Posters/Group66/Group66_Poster2.pdf)  |
 |  Group 67  |  [Poster1](./Posters/Group67/Group67_Poster1.pdf)  |  [Poster2](./Posters/Group67/Group67_Poster2.pdf)  |
+|  Group 68  |  [Poster1](./Posters/Group68/Group68_Poster1.pdf)  |  [Poster2](./Posters/Group68/Group68_Poster2.pdf)  |
 |  Group 69  |  [Poster1](./Posters/Group69/Group69_Poster1.pdf)  |  [Poster2](./Posters/Group69/Group69_Poster2.pdf)  |
 |  Group 70  |  [Poster1](./Posters/Group70/Group70_Poster1.pdf)  |  [Poster2](./Posters/Group70/Group70_Poster2.pdf)  |
 |  Group 71  |  [Poster1](./Posters/Group71/Group71_Poster1.pdf)  |    |
