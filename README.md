@@ -119,7 +119,6 @@ The following table will contain all of the submitted project 2 posters. Updates
 | [Group91](Posters/Group91) |
 | [Group92](Posters/Group92) |
 | [Group93](Posters/Group93) |
-| [Group94](Posters/Group94) |
 | [Group95](Posters/Group95) |
 | [Group96](Posters/Group96) |
 | [Group97](Posters/Group97) |
