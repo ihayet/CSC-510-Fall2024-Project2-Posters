@@ -24,5 +24,6 @@ If you have submitted a poster and it is **NOT** available here, or you find any
 The following table will contain all of the submitted project 2 posters. Updates will be reflected in this line.
 
 
-| Group  | Poster 1 |
-| ---------- | -------- |
+| Group  |
+| --------
+| [Group 1](Posters/Group1) |
